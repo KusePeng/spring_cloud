@@ -1,0 +1,4 @@
+com\test\cloud\service\DeptClientServiceFallbackFactory.class
+com\test\cloud\service\DeptClientService.class
+com\test\cloud\service\DeptClientServiceFallbackFactory$1.class
+com\test\cloud\entities\Dept.class
